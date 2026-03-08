@@ -1,0 +1,7 @@
+{
+  "pck_name": "RemoveMultiplayerPlayerLimit",
+  "name": "Remove Multiplayer Player Limit",
+  "author": "Rain_G | GPT Codex 5.3",
+  "description": "Raise multiplayer player cap from 4 to 8.",
+  "version": "0.0.3"
+}
