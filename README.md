@@ -2,7 +2,7 @@
 
 ## 统计
 
-- Mod 总数：**6**
+- Mod 总数：**7**
 
 ## 已安装 Mod
 
@@ -14,6 +14,7 @@
 | 4 | `PlayerColors-7-V1-0-1-1772959181` | PlayerColors | 玩家颜色区分增强：为玩家/连线/光标/地图绘图等元素提供颜色设置与区分（基于 DLL 字符串推断）。 | 未提供 | 未提供 |
 | 5 | `RemoveMultiplayerPlayerLimit` | Remove Multiplayer Player Limit | 把多人模式人数上限从 4 人提高到 8 人。 | 0.0.3 | Rain_G \| GPT Codex 5.3 |
 | 6 | `StsSpeak` | Sts2Speak | 聊天输入增强：可以打字聊天。 | 未提供 | 未提供 |
+| 7 | `UnifiedSavePaths-6-1-0-0-1772941940` | UnifiedSavePath | 统一存档路径：把模组/非模组运行时的存档路径逻辑统一，避免存档分流（基于 DLL 名称与字符串推断）。 | 未提供 | 未提供 |
 
 ## 说明
 
@@ -21,6 +22,7 @@
 - `BetterSpire2` 的功能说明已根据你的实测说明更新。
 - `Sts2Speak` 目录下没有 `mod_manifest.json`，功能说明已根据你的实测反馈更新。
 - `PlayerColors` 目录下没有 `mod_manifest.json`，功能说明来自 DLL 字符串推断。
+- `UnifiedSavePath` 目录下没有 `mod_manifest.json`，功能说明来自 DLL 名称与字符串推断。
 
 ## BetterSpire2 存档与安装备注
 
