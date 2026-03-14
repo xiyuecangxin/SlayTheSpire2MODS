@@ -16,7 +16,7 @@
 | 6 | `Multi Hit Damage-50-1-1-1773357100` | MultiHitDamage（推断） | 多段伤害统计。 | 1.1（推断） | 未提供 |
 | 7 | `PlayerColors-7-V1-0-1-1772959181` | PlayerColors | 不同玩家显示不同颜色。 | 1.0.1（推断） | 未提供 |
 | 8 | `QuickRestart-4-1-0-0-1772940295` | QuickRestart | 按 `F5` 快速重开当前 Run。 | 1.0.0（推断） | 未提供 |
-| 9 | `Relic Rarity Display-28-1-0-1773170607` | RelicRarityDisplay（推断） | 作用待确认（当前未确定）。 | 1.0（推断） | 未提供 |
+| 9 | `Relic Rarity Display-28-1-0-1773170607` | RelicRarityDisplay（推断） | 展示遗物稀有度。 | 1.0（推断） | 未提供 |
 | 10 | `Remove Multiplayer Player Limit-21-0-0-4A-1773124092` | RemoveMultiplayerPlayerLimit（推断） | 多人联机上限提高。 | 0.0.4A（推断） | 未提供 |
 | 11 | `Skada Damage Meter v1.7.6-33-1-7-6-1773459998` | Skada: Spire Edition / DamageMeter（推断） | DPS 统计。 | 1.7.6（推断） | 未提供 |
 | 12 | `StsSpeak` | Sts2Speak | 聊天输入增强：可以打字聊天。 | 未提供 | 未提供 |
@@ -26,7 +26,7 @@
 
 - `CombatQuill` 的名称、版本、功能说明来自 `mod_manifest.json`。
 - `BetterSpire2`、`Sts2Speak` 及部分无 manifest Mod 的功能说明已按你的口述确认更新。
-- `RelicRarityDisplay` 功能你暂未确认，当前保留“作用待确认”。
+- `RelicRarityDisplay` 的功能说明已按你的口述确认为“展示遗物稀有度”。
 - 名称/版本字段若无 manifest，仍按目录名与 DLL 信息推断，并在表格中标注“推断”。
 
 ## BetterSpire2 存档与安装备注
