@@ -1,0 +1,7 @@
+{
+  "pck_name": "RoutePlanner",
+  "name": "Route Planner",
+  "author": "Ling Samuel",
+  "description": "Route planning overlay for Slay the Spire 2 map",
+  "version": "v1.2"
+}
