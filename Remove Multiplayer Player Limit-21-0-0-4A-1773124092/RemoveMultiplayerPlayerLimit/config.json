@@ -1,0 +1,5 @@
+{
+  "max_player_limit": 8,
+  "min_supported": 4,
+  "max_supported": 16
+}

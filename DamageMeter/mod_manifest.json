@@ -1,7 +1,0 @@
-{
-  "pck_name": "DamageMeter",
-  "name": "Skada: Spire Edition",
-  "author": "皮一下就很凡",
-  "description": "战斗数据统计面板，类似魔兽世界的Skada。16大统计视图、助攻伤害/格挡追踪、数据总览仪表盘、宠物伤害追踪、每回合伤害显示、战斗段落历史、Run累计、设置面板、排名编号、F7快捷键、自动多语言、支持多人。",
-  "version": "1.2.5"
-}
