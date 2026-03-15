@@ -1,0 +1,5 @@
+{
+  "QuickPlayButton": "Space",
+  "Comment_EN": "QuickPlayButton: Set the quick card play button. Keyboard: A-Z, Key0-Key9, F1-F12, Space, Tab, Enter, CapsLock, Shift, Ctrl, Alt, Up, Down, Left, Right, Insert, Delete, Home, End, PageUp, PageDown, Backspace, Escape, etc. Mouse: Left, Right, Middle, Xbutton1 (side back), Xbutton2 (side forward).",
+  "Comment_CN": "QuickPlayButton: 设置快速出牌的按键。键盘: A-Z, Key0-Key9, F1-F12, Space(空格), Tab, Enter(回车), CapsLock(大写锁定), Shift, Ctrl, Alt, Up(上), Down(下), Left(左), Right(右), Insert, Delete, Home, End, PageUp, PageDown, Backspace(退格), Escape(ESC) 等。鼠标: Left(左键), Right(右键), Middle(中键/滚轮), Xbutton1(侧键后退), Xbutton2(侧键前进)。"
+}
