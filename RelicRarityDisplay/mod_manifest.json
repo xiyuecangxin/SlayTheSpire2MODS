@@ -1,0 +1,10 @@
+{
+  "id": "RelicRarityDisplay",
+  "name": "Relic Rarity Display",
+  "author": "Aiadan",
+  "description": "Colors relics based on their rarity.",
+  "version": "1.1",
+  "has_dll": true,
+  "has_pck": false,
+  "affects_gameplay": false
+}

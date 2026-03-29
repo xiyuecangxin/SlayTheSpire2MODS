@@ -1,7 +1,0 @@
-{
-  "pck_name": "MultiHitDamage",
-  "name": "Multi-Hit Damage",
-  "author": "Christopher",
-  "description": "Shows total damage for multi-hit attack cards, reflecting current strength and modifiers.",
-  "version": "1.1.0"
-}

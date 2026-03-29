@@ -1,0 +1,10 @@
+{
+  "id": "Math",
+  "name": "Math",
+  "author": "Ling Samuel",
+  "description": "Combat math overlay for Slay the Spire 2",
+  "version": "v0.2.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false
+}
