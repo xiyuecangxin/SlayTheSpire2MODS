@@ -1,0 +1,13 @@
+﻿{
+    "id":  "RegentCardsAnimeRework",
+    "name":  "RegentCardsAnimeRework",
+    "author":  "DoublePigeon",
+    "description":  "Reworking card portraits of Regent in a cute, colorful anime style!",
+    "version":  "v0.4",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+
+                     ],
+    "affects_gameplay":  false
+}

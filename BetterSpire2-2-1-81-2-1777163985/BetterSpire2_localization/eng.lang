@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 Settings",
+  "settings.title_lite": "BetterSpire2 Lite Settings",
+  "settings.hint": "Drag to move | Click outside to close",
+  "settings.language": "Language",
+
+  "section.combat_hud": "Combat HUD",
+  "section.multiplayer": "Multiplayer",
+  "section.gameplay": "Gameplay",
+  "section.shortcuts": "Shortcuts",
+  "section.party": "Party",
+  "section.language": "Language",
+
+  "setting.multi_hit_totals": "Multi-Hit Totals (per enemy)",
+  "setting.player_damage_total": "Total Incoming Damage (above player)",
+  "setting.show_expected_hp": "Show Expected HP After Damage",
+  "setting.reset_damage_position": "Reset Damage Number Position",
+  "setting.native_hand_badge": "Show x2 Badge on Hand Cards",
+
+  "setting.show_teammate_hand": "Show Teammate Hand (F3)",
+  "setting.always_show": "Keep Open (no click-outside close)",
+  "setting.auto_show": "Auto-Show When Entering Combat",
+  "setting.hide_own_hand": "Hide Own Hand (teammates only)",
+  "setting.compact_view": "Compact View (stats only, no cards)",
+  "setting.card_size": "Card Size",
+  "setting.opacity": "Background Opacity",
+  "setting.reset_position": "Reset Hand Viewer Position",
+
+  "setting.auto_confirm": "Auto-Confirm Discard/Retain",
+  "setting.instant_fast_mode": "Instant Fast Mode (combat only)",
+  "setting.skip_splash": "Skip Splash Screen",
+  "setting.show_clock": "Show Clock",
+  "setting.clock_24h": "24-Hour Format",
+
+  "setting.hold_r_restart": "Hold R to Restart Run",
+  "setting.double_tap_r": "Double-Tap R to Reset Round",
+  "setting.scale_difficulty": "Scale difficulty to active players",
+
+  "party.kick": "Kick",
+  "party.hide_drawings": "Hide Drawings",
+  "party.show_drawings": "Show Drawings",
+  "party.clear_drawings": "Clear All Drawings",
+
+  "deck.title": "Party Hands",
+  "deck.hand": "Hand",
+  "deck.potions": "Potions:"
+}

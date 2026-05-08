@@ -1,0 +1,11 @@
+{
+  "id": "HighlightPotionCards",
+  "name": "Highlight Card Types in Potion Description",
+  "author": "SyraLessThanThree",
+  "description": "Highlight Card Types with their respective Color in the Descriptions of Potions",
+  "version": "v0.1.3",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

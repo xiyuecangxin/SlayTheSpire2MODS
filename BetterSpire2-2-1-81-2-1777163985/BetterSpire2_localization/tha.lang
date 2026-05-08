@@ -1,0 +1,47 @@
+{
+  "settings.title": "ตั้งค่า BetterSpire2",
+  "settings.title_lite": "ตั้งค่า BetterSpire2 Lite",
+  "settings.hint": "ลากเพื่อย้าย | คลิกด้านนอกเพื่อปิด",
+  "settings.language": "ภาษา",
+
+  "section.combat_hud": "HUD การต่อสู้",
+  "section.multiplayer": "ผู้เล่นหลายคน",
+  "section.gameplay": "เกมเพลย์",
+  "section.shortcuts": "ทางลัด",
+  "section.party": "ปาร์ตี้",
+  "section.language": "ภาษา",
+
+  "setting.multi_hit_totals": "รวมความเสียหายหลายครั้ง (ต่อศัตรู)",
+  "setting.player_damage_total": "ความเสียหายที่เข้ามารวม (เหนือผู้เล่น)",
+  "setting.show_expected_hp": "แสดง HP ที่คาดหวังหลังรับความเสียหาย",
+  "setting.reset_damage_position": "รีเซ็ตตำแหน่งเลขความเสียหาย",
+  "setting.native_hand_badge": "แสดงตรา x2 บนการ์ดในมือ",
+
+  "setting.show_teammate_hand": "แสดงไพ่ของเพื่อนร่วมทีม (F3)",
+  "setting.always_show": "เปิดทิ้งไว้ (คลิกด้านนอกไม่ปิด)",
+  "setting.auto_show": "แสดงอัตโนมัติเมื่อเข้าสู่การต่อสู้",
+  "setting.hide_own_hand": "ซ่อนไพ่ของตัวเอง (เฉพาะเพื่อนร่วมทีม)",
+  "setting.compact_view": "มุมมองกะทัดรัด (สถิติเท่านั้น ไม่มีไพ่)",
+  "setting.card_size": "ขนาดไพ่",
+  "setting.opacity": "ความทึบของพื้นหลัง",
+  "setting.reset_position": "รีเซ็ตตำแหน่งตัวแสดงไพ่",
+
+  "setting.auto_confirm": "ยืนยันทิ้ง/เก็บโดยอัตโนมัติ",
+  "setting.instant_fast_mode": "โหมดเร็วทันที (เฉพาะการต่อสู้)",
+  "setting.skip_splash": "ข้ามหน้าจอเปิดเกม",
+  "setting.show_clock": "แสดงนาฬิกา",
+  "setting.clock_24h": "รูปแบบ 24 ชั่วโมง",
+
+  "setting.hold_r_restart": "กด R ค้างเพื่อเริ่มใหม่",
+  "setting.double_tap_r": "แตะ R สองครั้งเพื่อรีเซ็ตรอบ",
+  "setting.scale_difficulty": "ปรับความยากตามผู้เล่นที่ใช้งาน",
+
+  "party.kick": "เตะออก",
+  "party.hide_drawings": "ซ่อนภาพวาด",
+  "party.show_drawings": "แสดงภาพวาด",
+  "party.clear_drawings": "ล้างภาพวาดทั้งหมด",
+
+  "deck.title": "ไพ่ของปาร์ตี้",
+  "deck.hand": "ไพ่ในมือ",
+  "deck.potions": "ยา:"
+}

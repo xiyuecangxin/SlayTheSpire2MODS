@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 Ayarları",
+  "settings.title_lite": "BetterSpire2 Lite Ayarları",
+  "settings.hint": "Taşımak için sürükle | Kapatmak için dışarıya tıkla",
+  "settings.language": "Dil",
+
+  "section.combat_hud": "Savaş HUD",
+  "section.multiplayer": "Çok Oyunculu",
+  "section.gameplay": "Oynanış",
+  "section.shortcuts": "Kısayollar",
+  "section.party": "Grup",
+  "section.language": "Dil",
+
+  "setting.multi_hit_totals": "Çoklu Vuruş Toplamları (düşman başına)",
+  "setting.player_damage_total": "Toplam Gelen Hasar (oyuncunun üstünde)",
+  "setting.show_expected_hp": "Hasar sonrası beklenen HP'yi göster",
+  "setting.reset_damage_position": "Hasar Sayısı Konumunu Sıfırla",
+  "setting.native_hand_badge": "Eldeki kartlarda x2 rozetini göster",
+
+  "setting.show_teammate_hand": "Takım arkadaşının elini göster (F3)",
+  "setting.always_show": "Açık tut (dışarı tıklayınca kapanmaz)",
+  "setting.auto_show": "Savaşa girerken otomatik göster",
+  "setting.hide_own_hand": "Kendi elini gizle (yalnızca takım)",
+  "setting.compact_view": "Kompakt görünüm (yalnız istatistikler, kart yok)",
+  "setting.card_size": "Kart Boyutu",
+  "setting.opacity": "Arka Plan Opaklığı",
+  "setting.reset_position": "El görüntüleyici konumunu sıfırla",
+
+  "setting.auto_confirm": "At/Sakla'yı otomatik onayla",
+  "setting.instant_fast_mode": "Anlık Hızlı Mod (yalnızca savaşta)",
+  "setting.skip_splash": "Başlangıç ekranını atla",
+  "setting.show_clock": "Saati göster",
+  "setting.clock_24h": "24 saat biçimi",
+
+  "setting.hold_r_restart": "Çalıştırmayı yeniden başlatmak için R'yi basılı tut",
+  "setting.double_tap_r": "Tur sıfırlamak için R'ye çift dokun",
+  "setting.scale_difficulty": "Zorluğu aktif oyunculara göre ayarla",
+
+  "party.kick": "At",
+  "party.hide_drawings": "Çizimleri gizle",
+  "party.show_drawings": "Çizimleri göster",
+  "party.clear_drawings": "Tüm çizimleri temizle",
+
+  "deck.title": "Grup Elleri",
+  "deck.hand": "El",
+  "deck.potions": "İksirler:"
+}

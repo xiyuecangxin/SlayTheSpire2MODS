@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 Einstellungen",
+  "settings.title_lite": "BetterSpire2 Lite Einstellungen",
+  "settings.hint": "Zum Verschieben ziehen | Außerhalb klicken zum Schließen",
+  "settings.language": "Sprache",
+
+  "section.combat_hud": "Kampf-HUD",
+  "section.multiplayer": "Mehrspieler",
+  "section.gameplay": "Gameplay",
+  "section.shortcuts": "Tastenkürzel",
+  "section.party": "Gruppe",
+  "section.language": "Sprache",
+
+  "setting.multi_hit_totals": "Mehrfachtreffer-Summe (pro Gegner)",
+  "setting.player_damage_total": "Gesamter eingehender Schaden (über Spieler)",
+  "setting.show_expected_hp": "Erwartete HP nach Schaden anzeigen",
+  "setting.reset_damage_position": "Schadenszahl-Position zurücksetzen",
+  "setting.native_hand_badge": "x2-Abzeichen auf Handkarten anzeigen",
+
+  "setting.show_teammate_hand": "Teamhand anzeigen (F3)",
+  "setting.always_show": "Offen lassen (kein Schließen durch Klick)",
+  "setting.auto_show": "Beim Kampfbeginn automatisch anzeigen",
+  "setting.hide_own_hand": "Eigene Hand verbergen (nur Teammitglieder)",
+  "setting.compact_view": "Kompaktansicht (nur Statistik, keine Karten)",
+  "setting.card_size": "Kartengröße",
+  "setting.opacity": "Hintergrunddeckkraft",
+  "setting.reset_position": "Handansicht-Position zurücksetzen",
+
+  "setting.auto_confirm": "Ablegen/Behalten automatisch bestätigen",
+  "setting.instant_fast_mode": "Sofort-Schnellmodus (nur Kampf)",
+  "setting.skip_splash": "Startbildschirm überspringen",
+  "setting.show_clock": "Uhr anzeigen",
+  "setting.clock_24h": "24-Stunden-Format",
+
+  "setting.hold_r_restart": "R gedrückt halten zum Neustart",
+  "setting.double_tap_r": "R doppelt drücken für Rundenreset",
+  "setting.scale_difficulty": "Schwierigkeit an aktive Spieler anpassen",
+
+  "party.kick": "Rauswerfen",
+  "party.hide_drawings": "Zeichnungen ausblenden",
+  "party.show_drawings": "Zeichnungen anzeigen",
+  "party.clear_drawings": "Alle Zeichnungen löschen",
+
+  "deck.title": "Gruppenhände",
+  "deck.hand": "Hand",
+  "deck.potions": "Tränke:"
+}

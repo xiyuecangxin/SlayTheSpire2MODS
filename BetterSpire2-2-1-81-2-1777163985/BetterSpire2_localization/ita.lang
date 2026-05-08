@@ -1,0 +1,47 @@
+{
+  "settings.title": "Impostazioni BetterSpire2",
+  "settings.title_lite": "Impostazioni BetterSpire2 Lite",
+  "settings.hint": "Trascina per spostare | Clic fuori per chiudere",
+  "settings.language": "Lingua",
+
+  "section.combat_hud": "HUD di combattimento",
+  "section.multiplayer": "Multigiocatore",
+  "section.gameplay": "Giocabilità",
+  "section.shortcuts": "Scorciatoie",
+  "section.party": "Squadra",
+  "section.language": "Lingua",
+
+  "setting.multi_hit_totals": "Totali colpi multipli (per nemico)",
+  "setting.player_damage_total": "Danno totale in entrata (sopra il giocatore)",
+  "setting.show_expected_hp": "Mostra PV previsti dopo il danno",
+  "setting.reset_damage_position": "Ripristina posizione del numero di danno",
+  "setting.native_hand_badge": "Mostra distintivo x2 sulle carte in mano",
+
+  "setting.show_teammate_hand": "Mostra mano del compagno (F3)",
+  "setting.always_show": "Mantieni aperto (no chiusura al clic fuori)",
+  "setting.auto_show": "Mostra automaticamente in combattimento",
+  "setting.hide_own_hand": "Nascondi la propria mano (solo compagni)",
+  "setting.compact_view": "Vista compatta (solo statistiche, senza carte)",
+  "setting.card_size": "Dimensione delle carte",
+  "setting.opacity": "Opacità dello sfondo",
+  "setting.reset_position": "Ripristina posizione del visualizzatore",
+
+  "setting.auto_confirm": "Auto-conferma Scarta/Mantieni",
+  "setting.instant_fast_mode": "Modalità rapida istantanea (solo combattimento)",
+  "setting.skip_splash": "Salta schermata iniziale",
+  "setting.show_clock": "Mostra orologio",
+  "setting.clock_24h": "Formato 24 ore",
+
+  "setting.hold_r_restart": "Tieni R premuto per riavviare",
+  "setting.double_tap_r": "Doppio tap su R per reimpostare il turno",
+  "setting.scale_difficulty": "Regola difficoltà in base ai giocatori attivi",
+
+  "party.kick": "Espelli",
+  "party.hide_drawings": "Nascondi disegni",
+  "party.show_drawings": "Mostra disegni",
+  "party.clear_drawings": "Cancella tutti i disegni",
+
+  "deck.title": "Mani della squadra",
+  "deck.hand": "Mano",
+  "deck.potions": "Pozioni:"
+}

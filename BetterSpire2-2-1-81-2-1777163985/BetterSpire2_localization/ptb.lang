@@ -1,0 +1,47 @@
+{
+  "settings.title": "Configurações do BetterSpire2",
+  "settings.title_lite": "Configurações do BetterSpire2 Lite",
+  "settings.hint": "Arraste para mover | Clique fora para fechar",
+  "settings.language": "Idioma",
+
+  "section.combat_hud": "HUD de combate",
+  "section.multiplayer": "Multijogador",
+  "section.gameplay": "Jogabilidade",
+  "section.shortcuts": "Atalhos",
+  "section.party": "Grupo",
+  "section.language": "Idioma",
+
+  "setting.multi_hit_totals": "Totais de múltiplos ataques (por inimigo)",
+  "setting.player_damage_total": "Dano total recebido (acima do jogador)",
+  "setting.show_expected_hp": "Mostrar HP esperado após dano",
+  "setting.reset_damage_position": "Redefinir posição do número de dano",
+  "setting.native_hand_badge": "Mostrar emblema x2 nas cartas da mão",
+
+  "setting.show_teammate_hand": "Mostrar mão do colega (F3)",
+  "setting.always_show": "Manter aberto (não fecha ao clicar fora)",
+  "setting.auto_show": "Mostrar automaticamente ao entrar em combate",
+  "setting.hide_own_hand": "Ocultar própria mão (apenas colegas)",
+  "setting.compact_view": "Visão compacta (apenas stats, sem cartas)",
+  "setting.card_size": "Tamanho das cartas",
+  "setting.opacity": "Opacidade do fundo",
+  "setting.reset_position": "Redefinir posição do visualizador",
+
+  "setting.auto_confirm": "Confirmar auto. Descartar/Manter",
+  "setting.instant_fast_mode": "Modo rápido instantâneo (só combate)",
+  "setting.skip_splash": "Pular tela inicial",
+  "setting.show_clock": "Mostrar relógio",
+  "setting.clock_24h": "Formato 24 horas",
+
+  "setting.hold_r_restart": "Segurar R para reiniciar run",
+  "setting.double_tap_r": "Toque duplo em R para reiniciar turno",
+  "setting.scale_difficulty": "Ajustar dificuldade aos jogadores ativos",
+
+  "party.kick": "Expulsar",
+  "party.hide_drawings": "Ocultar desenhos",
+  "party.show_drawings": "Mostrar desenhos",
+  "party.clear_drawings": "Limpar todos os desenhos",
+
+  "deck.title": "Mãos do grupo",
+  "deck.hand": "Mão",
+  "deck.potions": "Poções:"
+}

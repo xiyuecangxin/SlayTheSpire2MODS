@@ -1,0 +1,47 @@
+{
+  "settings.title": "Ajustes de BetterSpire2",
+  "settings.title_lite": "Ajustes de BetterSpire2 Lite",
+  "settings.hint": "Arrastra para mover | Haz clic fuera para cerrar",
+  "settings.language": "Idioma",
+
+  "section.combat_hud": "HUD de combate",
+  "section.multiplayer": "Multijugador",
+  "section.gameplay": "Jugabilidad",
+  "section.shortcuts": "Atajos",
+  "section.party": "Grupo",
+  "section.language": "Idioma",
+
+  "setting.multi_hit_totals": "Totales de golpes múltiples (por enemigo)",
+  "setting.player_damage_total": "Daño entrante total (sobre el jugador)",
+  "setting.show_expected_hp": "Mostrar PV previstos tras el daño",
+  "setting.reset_damage_position": "Restablecer posición del número de daño",
+  "setting.native_hand_badge": "Mostrar insignia x2 en las cartas de la mano",
+
+  "setting.show_teammate_hand": "Mostrar mano del compañero (F3)",
+  "setting.always_show": "Mantener abierto (no se cierra al hacer clic fuera)",
+  "setting.auto_show": "Mostrar automáticamente al entrar en combate",
+  "setting.hide_own_hand": "Ocultar tu propia mano (solo compañeros)",
+  "setting.compact_view": "Vista compacta (solo estadísticas, sin cartas)",
+  "setting.card_size": "Tamaño de carta",
+  "setting.opacity": "Opacidad del fondo",
+  "setting.reset_position": "Restablecer posición del visor de mano",
+
+  "setting.auto_confirm": "Autoconfirmar descartar/retener",
+  "setting.instant_fast_mode": "Modo rápido instantáneo (solo combate)",
+  "setting.skip_splash": "Omitir pantalla de inicio",
+  "setting.show_clock": "Mostrar reloj",
+  "setting.clock_24h": "Formato 24 horas",
+
+  "setting.hold_r_restart": "Mantén R para reiniciar partida",
+  "setting.double_tap_r": "Pulsa R dos veces para reiniciar ronda",
+  "setting.scale_difficulty": "Ajustar dificultad a jugadores activos",
+
+  "party.kick": "Expulsar",
+  "party.hide_drawings": "Ocultar dibujos",
+  "party.show_drawings": "Mostrar dibujos",
+  "party.clear_drawings": "Borrar todos los dibujos",
+
+  "deck.title": "Manos del grupo",
+  "deck.hand": "Mano",
+  "deck.potions": "Pociones:"
+}

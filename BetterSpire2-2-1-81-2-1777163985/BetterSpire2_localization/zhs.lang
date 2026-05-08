@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 设置",
+  "settings.title_lite": "BetterSpire2 Lite 设置",
+  "settings.hint": "拖动移动 | 点击外部关闭",
+  "settings.language": "语言",
+
+  "section.combat_hud": "战斗界面",
+  "section.multiplayer": "多人游戏",
+  "section.gameplay": "游戏玩法",
+  "section.shortcuts": "快捷键",
+  "section.party": "队伍",
+  "section.language": "语言",
+
+  "setting.multi_hit_totals": "多段伤害总计 (每个敌人)",
+  "setting.player_damage_total": "传入伤害总计 (玩家上方)",
+  "setting.show_expected_hp": "显示受伤后预期生命值",
+  "setting.reset_damage_position": "重置伤害数字位置",
+  "setting.native_hand_badge": "在手牌上显示 x2 标记",
+
+  "setting.show_teammate_hand": "显示队友手牌 (F3)",
+  "setting.always_show": "保持打开 (点击外部不关闭)",
+  "setting.auto_show": "进入战斗时自动显示",
+  "setting.hide_own_hand": "隐藏自己的手牌 (仅显示队友)",
+  "setting.compact_view": "紧凑视图 (仅数据，不显示卡牌)",
+  "setting.card_size": "卡牌大小",
+  "setting.opacity": "背景不透明度",
+  "setting.reset_position": "重置手牌查看器位置",
+
+  "setting.auto_confirm": "自动确认弃牌/保留",
+  "setting.instant_fast_mode": "即时快速模式 (仅战斗)",
+  "setting.skip_splash": "跳过启动画面",
+  "setting.show_clock": "显示时钟",
+  "setting.clock_24h": "24小时制",
+
+  "setting.hold_r_restart": "长按R重新开始",
+  "setting.double_tap_r": "双击R重置回合",
+  "setting.scale_difficulty": "根据在线玩家调整难度",
+
+  "party.kick": "踢出",
+  "party.hide_drawings": "隐藏绘画",
+  "party.show_drawings": "显示绘画",
+  "party.clear_drawings": "清除所有绘画",
+
+  "deck.title": "队伍手牌",
+  "deck.hand": "手牌",
+  "deck.potions": "药水:"
+}

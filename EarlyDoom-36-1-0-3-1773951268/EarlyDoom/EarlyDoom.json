@@ -1,0 +1,12 @@
+﻿{
+                "id": "EarlyDoom",
+                "pck_name": "EarlyDoom",
+                "name": "Early Doom",
+                "author": "Pretense",
+                "version": "1.0.3",
+                "description": "Triggers Doom at the end of your turn instead of the end of the enemies turn.",
+                "has_pck": true,
+                "has_dll": true,
+                "dependencies": [],
+                "affects_gameplay": true
+                }

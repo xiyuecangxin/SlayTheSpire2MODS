@@ -1,0 +1,47 @@
+{
+  "settings.title": "Настройки BetterSpire2",
+  "settings.title_lite": "Настройки BetterSpire2 Lite",
+  "settings.hint": "Перетащите для перемещения | Клик вне для закрытия",
+  "settings.language": "Язык",
+
+  "section.combat_hud": "HUD боя",
+  "section.multiplayer": "Мультиплеер",
+  "section.gameplay": "Геймплей",
+  "section.shortcuts": "Горячие клавиши",
+  "section.party": "Группа",
+  "section.language": "Язык",
+
+  "setting.multi_hit_totals": "Сумма множественных ударов (на врага)",
+  "setting.player_damage_total": "Общий входящий урон (над игроком)",
+  "setting.show_expected_hp": "Показывать ожидаемый HP после урона",
+  "setting.reset_damage_position": "Сбросить позицию числа урона",
+  "setting.native_hand_badge": "Показывать значок x2 на картах в руке",
+
+  "setting.show_teammate_hand": "Показывать руку союзника (F3)",
+  "setting.always_show": "Оставлять открытым (не закрывать по клику)",
+  "setting.auto_show": "Автопоказ в начале боя",
+  "setting.hide_own_hand": "Скрыть свою руку (только союзники)",
+  "setting.compact_view": "Компактный вид (только статы, без карт)",
+  "setting.card_size": "Размер карт",
+  "setting.opacity": "Непрозрачность фона",
+  "setting.reset_position": "Сбросить позицию просмотра руки",
+
+  "setting.auto_confirm": "Авто-подтверждение Сбросить/Оставить",
+  "setting.instant_fast_mode": "Мгновенный быстрый режим (только в бою)",
+  "setting.skip_splash": "Пропустить заставку",
+  "setting.show_clock": "Показать часы",
+  "setting.clock_24h": "24-часовой формат",
+
+  "setting.hold_r_restart": "Удерживать R для рестарта забега",
+  "setting.double_tap_r": "Двойное нажатие R для сброса раунда",
+  "setting.scale_difficulty": "Масштабировать сложность по игрокам",
+
+  "party.kick": "Кикнуть",
+  "party.hide_drawings": "Скрыть рисунки",
+  "party.show_drawings": "Показать рисунки",
+  "party.clear_drawings": "Очистить все рисунки",
+
+  "deck.title": "Руки группы",
+  "deck.hand": "Рука",
+  "deck.potions": "Зелья:"
+}

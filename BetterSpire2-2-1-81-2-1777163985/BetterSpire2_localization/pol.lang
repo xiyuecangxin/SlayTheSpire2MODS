@@ -1,0 +1,47 @@
+{
+  "settings.title": "Ustawienia BetterSpire2",
+  "settings.title_lite": "Ustawienia BetterSpire2 Lite",
+  "settings.hint": "Przeciągnij, aby przenieść | Kliknij poza, aby zamknąć",
+  "settings.language": "Język",
+
+  "section.combat_hud": "HUD walki",
+  "section.multiplayer": "Wieloosobowy",
+  "section.gameplay": "Rozgrywka",
+  "section.shortcuts": "Skróty",
+  "section.party": "Drużyna",
+  "section.language": "Język",
+
+  "setting.multi_hit_totals": "Sumy wielokrotnych trafień (na wroga)",
+  "setting.player_damage_total": "Łączne otrzymane obrażenia (nad graczem)",
+  "setting.show_expected_hp": "Pokaż spodziewane PŻ po obrażeniach",
+  "setting.reset_damage_position": "Resetuj pozycję liczby obrażeń",
+  "setting.native_hand_badge": "Pokaż odznakę x2 na kartach w ręce",
+
+  "setting.show_teammate_hand": "Pokaż rękę sojusznika (F3)",
+  "setting.always_show": "Trzymaj otwarte (nie zamyka przy kliknięciu)",
+  "setting.auto_show": "Pokaż automatycznie przy rozpoczęciu walki",
+  "setting.hide_own_hand": "Ukryj własną rękę (tylko sojusznicy)",
+  "setting.compact_view": "Widok kompaktowy (tylko statystyki, bez kart)",
+  "setting.card_size": "Rozmiar kart",
+  "setting.opacity": "Nieprzezroczystość tła",
+  "setting.reset_position": "Resetuj pozycję podglądu ręki",
+
+  "setting.auto_confirm": "Auto-potwierdzenie Odrzuć/Zachowaj",
+  "setting.instant_fast_mode": "Tryb natychmiastowy (tylko walka)",
+  "setting.skip_splash": "Pomiń ekran startowy",
+  "setting.show_clock": "Pokaż zegar",
+  "setting.clock_24h": "Format 24-godzinny",
+
+  "setting.hold_r_restart": "Przytrzymaj R, aby zrestartować grę",
+  "setting.double_tap_r": "Dwukrotnie naciśnij R, aby zresetować rundę",
+  "setting.scale_difficulty": "Skaluj trudność do aktywnych graczy",
+
+  "party.kick": "Wyrzuć",
+  "party.hide_drawings": "Ukryj rysunki",
+  "party.show_drawings": "Pokaż rysunki",
+  "party.clear_drawings": "Wyczyść wszystkie rysunki",
+
+  "deck.title": "Ręce drużyny",
+  "deck.hand": "Ręka",
+  "deck.potions": "Mikstury:"
+}

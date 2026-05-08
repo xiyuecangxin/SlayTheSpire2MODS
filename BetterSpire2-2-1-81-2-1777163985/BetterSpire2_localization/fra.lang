@@ -1,0 +1,47 @@
+{
+  "settings.title": "Paramètres BetterSpire2",
+  "settings.title_lite": "Paramètres BetterSpire2 Lite",
+  "settings.hint": "Glisser pour déplacer | Cliquer à l'extérieur pour fermer",
+  "settings.language": "Langue",
+
+  "section.combat_hud": "Interface de combat",
+  "section.multiplayer": "Multijoueur",
+  "section.gameplay": "Jouabilité",
+  "section.shortcuts": "Raccourcis",
+  "section.party": "Groupe",
+  "section.language": "Langue",
+
+  "setting.multi_hit_totals": "Total des coups multiples (par ennemi)",
+  "setting.player_damage_total": "Dégâts totaux reçus (au-dessus du joueur)",
+  "setting.show_expected_hp": "Afficher les PV attendus après dégâts",
+  "setting.reset_damage_position": "Réinitialiser la position du numéro de dégâts",
+  "setting.native_hand_badge": "Afficher le badge x2 sur les cartes en main",
+
+  "setting.show_teammate_hand": "Afficher la main des coéquipiers (F3)",
+  "setting.always_show": "Garder ouvert (pas de fermeture par clic)",
+  "setting.auto_show": "Afficher automatiquement en combat",
+  "setting.hide_own_hand": "Masquer sa propre main (coéquipiers seulement)",
+  "setting.compact_view": "Vue compacte (stats seulement, pas de cartes)",
+  "setting.card_size": "Taille des cartes",
+  "setting.opacity": "Opacité de l'arrière-plan",
+  "setting.reset_position": "Réinitialiser la position du visualiseur",
+
+  "setting.auto_confirm": "Confirmer auto. Défausser/Conserver",
+  "setting.instant_fast_mode": "Mode rapide instantané (combat uniquement)",
+  "setting.skip_splash": "Ignorer l'écran d'accueil",
+  "setting.show_clock": "Afficher l'horloge",
+  "setting.clock_24h": "Format 24 heures",
+
+  "setting.hold_r_restart": "Maintenir R pour recommencer",
+  "setting.double_tap_r": "Double-tap R pour réinitialiser le tour",
+  "setting.scale_difficulty": "Ajuster la difficulté aux joueurs actifs",
+
+  "party.kick": "Expulser",
+  "party.hide_drawings": "Masquer les dessins",
+  "party.show_drawings": "Afficher les dessins",
+  "party.clear_drawings": "Effacer tous les dessins",
+
+  "deck.title": "Mains du groupe",
+  "deck.hand": "Main",
+  "deck.potions": "Potions :"
+}

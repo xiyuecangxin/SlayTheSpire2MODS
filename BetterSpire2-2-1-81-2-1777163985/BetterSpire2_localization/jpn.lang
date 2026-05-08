@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 設定",
+  "settings.title_lite": "BetterSpire2 Lite 設定",
+  "settings.hint": "ドラッグで移動 | 外側をクリックで閉じる",
+  "settings.language": "言語",
+
+  "section.combat_hud": "戦闘HUD",
+  "section.multiplayer": "マルチプレイヤー",
+  "section.gameplay": "ゲームプレイ",
+  "section.shortcuts": "ショートカット",
+  "section.party": "パーティー",
+  "section.language": "言語",
+
+  "setting.multi_hit_totals": "マルチヒット合計 (敵ごと)",
+  "setting.player_damage_total": "被ダメージ合計 (プレイヤー上に表示)",
+  "setting.show_expected_hp": "ダメージ後の予想HPを表示",
+  "setting.reset_damage_position": "ダメージ数値の位置をリセット",
+  "setting.native_hand_badge": "手札カードにx2バッジを表示",
+
+  "setting.show_teammate_hand": "味方の手札を表示 (F3)",
+  "setting.always_show": "常に表示 (外側クリックで閉じない)",
+  "setting.auto_show": "戦闘開始時に自動表示",
+  "setting.hide_own_hand": "自分の手札を非表示 (味方のみ)",
+  "setting.compact_view": "コンパクト表示 (数値のみ、カード非表示)",
+  "setting.card_size": "カードサイズ",
+  "setting.opacity": "背景の不透明度",
+  "setting.reset_position": "手札ビューアの位置をリセット",
+
+  "setting.auto_confirm": "捨て札/保持を自動確認",
+  "setting.instant_fast_mode": "インスタント高速モード (戦闘中のみ)",
+  "setting.skip_splash": "スプラッシュ画面をスキップ",
+  "setting.show_clock": "時計を表示",
+  "setting.clock_24h": "24時間表示",
+
+  "setting.hold_r_restart": "R長押しでラン再開",
+  "setting.double_tap_r": "Rダブルタップでラウンドリセット",
+  "setting.scale_difficulty": "アクティブなプレイヤー数に難易度を調整",
+
+  "party.kick": "キック",
+  "party.hide_drawings": "描画を非表示",
+  "party.show_drawings": "描画を表示",
+  "party.clear_drawings": "すべての描画を消去",
+
+  "deck.title": "パーティーの手札",
+  "deck.hand": "手札",
+  "deck.potions": "ポーション:"
+}

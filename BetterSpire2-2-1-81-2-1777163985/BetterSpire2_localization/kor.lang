@@ -1,0 +1,47 @@
+{
+  "settings.title": "BetterSpire2 설정",
+  "settings.title_lite": "BetterSpire2 Lite 설정",
+  "settings.hint": "드래그하여 이동 | 외부 클릭으로 닫기",
+  "settings.language": "언어",
+
+  "section.combat_hud": "전투 HUD",
+  "section.multiplayer": "멀티플레이어",
+  "section.gameplay": "게임플레이",
+  "section.shortcuts": "단축키",
+  "section.party": "파티",
+  "section.language": "언어",
+
+  "setting.multi_hit_totals": "다중 타격 합계 (적별)",
+  "setting.player_damage_total": "총 받는 피해 (플레이어 위)",
+  "setting.show_expected_hp": "피해 후 예상 HP 표시",
+  "setting.reset_damage_position": "피해 숫자 위치 초기화",
+  "setting.native_hand_badge": "손패 카드에 x2 뱃지 표시",
+
+  "setting.show_teammate_hand": "팀원 패 표시 (F3)",
+  "setting.always_show": "계속 열어두기 (외부 클릭으로 닫지 않음)",
+  "setting.auto_show": "전투 시작 시 자동 표시",
+  "setting.hide_own_hand": "내 패 숨기기 (팀원만 표시)",
+  "setting.compact_view": "간략 보기 (통계만, 카드 없음)",
+  "setting.card_size": "카드 크기",
+  "setting.opacity": "배경 불투명도",
+  "setting.reset_position": "패 뷰어 위치 재설정",
+
+  "setting.auto_confirm": "버리기/유지 자동 확인",
+  "setting.instant_fast_mode": "즉시 빠른 모드 (전투 중에만)",
+  "setting.skip_splash": "시작 화면 건너뛰기",
+  "setting.show_clock": "시계 표시",
+  "setting.clock_24h": "24시간 형식",
+
+  "setting.hold_r_restart": "R 길게 눌러 런 재시작",
+  "setting.double_tap_r": "R 두 번 눌러 라운드 재설정",
+  "setting.scale_difficulty": "활동 중인 플레이어에 난이도 조정",
+
+  "party.kick": "추방",
+  "party.hide_drawings": "그림 숨기기",
+  "party.show_drawings": "그림 표시",
+  "party.clear_drawings": "모든 그림 지우기",
+
+  "deck.title": "파티 패",
+  "deck.hand": "패",
+  "deck.potions": "물약:"
+}

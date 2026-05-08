@@ -1,0 +1,11 @@
+{
+  "id": "MoreCardRewards",
+  "name": "MoreCardRewards",
+  "author": "Emo Used HM01",
+  "description": "Increases card reward choices from 3 to 5.",
+  "version": "v1.5.0",
+  "has_dll": true,
+  "has_pck": true,
+  "dependencies": [],
+  "affects_gameplay": true
+}
