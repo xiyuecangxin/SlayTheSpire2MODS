@@ -1,0 +1,11 @@
+{
+  "id": "AnimeWaifuSilent",
+  "name": "AnimeWaifuSilent",
+  "author": "Xpp&LingEnd",
+  "description": "将部分静默猎手卡牌的卡图替换成二次元白毛美少女\n特别感谢：ghoul，hatk",
+  "version": "v1.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

@@ -1,0 +1,173 @@
+﻿{
+    "cache_version":  2,
+    "last_check_at":  "2026-05-10T13:03:32.7387541+08:00",
+    "entitlements_hash":  "45a31e4f425c863aa84cda2cb300f9e4ce3e5eb30c2bea64aab9524f73b40f0e",
+    "check_result":  {
+                         "Updates":  [
+
+                                     ],
+                         "Error":  null,
+                         "BetaError":  null,
+                         "UpToDate":  [
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/DamageMeter-v1.14.4/DamageMeter_v1.14.4.zip",
+                                              "Name":  "DamageMeter",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "修复 STS2 v0.105.0 将 Creature.CombatState 从 CombatState 改为 ICombatState 后，末日击杀与持续伤害归因路径可能触发的兼容问题。",
+                                                                      "DamageMeter 接入共享 Sts2Compat 运行时桥，同一 DLL 继续支持 v0.103.2 正式服与 v0.105.0 测试服。",
+                                                                      "玩家列表读取增加反射回退，助攻、中毒、末日等归因逻辑在新旧 CombatState 形态下保持安全。"
+                                                                  ],
+                                              "LocalName":  "皮皮统计: Skada",
+                                              "RemoteVer":  "1.14.4",
+                                              "Filename":  "DamageMeter_v1.14.4.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\DamageMeter",
+                                              "Changelog":  "兼容 v0.105 CombatState 接口变更",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "1.14.4",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "0e966fa3fcbba3c709a1137a9b51e20c3a4cb8aec4ca89ef76643b9435682aec",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/DamageMeter-v1.14.4/DamageMeter_v1.14.4.zip",
+                                              "UpdatedAt":  "2026-05-09",
+                                              "CloudName":  "皮皮统计: Skada",
+                                              "InstalledChannel":  "stable"
+                                          },
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/ModConfig-v0.2.3/ModConfig_v0.2.3.zip",
+                                              "Name":  "ModConfig",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "游戏 v0.99+ 起 \u003cModId\u003e.json 是唯一的外部 root manifest，但 mod loader 依然会扫描 legacy mod_manifest.json —— 同目录两份 manifest 会被 loader 各自注册为独立模组条目，游戏菜单里就出现同名的红色「已加载」坏条目。",
+                                                                      "上一版发布 zip 里同时带了两份 manifest。虽然 ModManager.ps1 安装/更新时会调用 Remove-LegacyExternalManifest 清理玩家目录，但 zip 里还带着 mod_manifest.json，紧跟的 Copy-Item 又把它复制回来，等于白清理。",
+                                                                      "本版重新打包的 zip 只含 \u003cMod\u003e.json + DLL + PCK，不含 mod_manifest.json。没有代码变更。从上一版更新过来时，ModManager 会删掉玩家目录里残留的 mod_manifest.json，重复条目消失。"
+                                                                  ],
+                                              "LocalName":  "皮皮配置: ModConfig",
+                                              "RemoteVer":  "0.2.3",
+                                              "Filename":  "ModConfig_v0.2.3.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\ModConfig",
+                                              "Changelog":  "重新打包发布 zip，移除 legacy mod_manifest.json 修复游戏菜单里的重复模组条目",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "0.2.3",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "dab047d5cea9163e4fdce73b05aed8fd4790c5210d327bcd6f620415db7b9d06",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/ModConfig-v0.2.3/ModConfig_v0.2.3.zip",
+                                              "UpdatedAt":  "2026-04-19",
+                                              "CloudName":  "皮皮配置: ModConfig",
+                                              "InstalledChannel":  "stable"
+                                          },
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/QuickLink-v0.9.7/QuickLink_v0.9.7.zip",
+                                              "Name":  "QuickLink",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "项目改用共享的 STS2 兼容编译属性，并源码链接 Sts2Compat 兼容层。",
+                                                                      "检查点保存补丁继续显式绑定 SaveRun(AbstractRoom)，避免 v0.104 新增重载导致 Harmony 歧义。",
+                                                                      "将 QuickLink 纳入 IL 静态兼容检查，方便后续 STS2 beta 更新时提前发现问题。"
+                                                                  ],
+                                              "LocalName":  "皮皮快连: QuickLink",
+                                              "RemoteVer":  "0.9.7",
+                                              "Filename":  "QuickLink_v0.9.7.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\QuickLink",
+                                              "Changelog":  "使用固定 STS2 兼容编译基线",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "0.9.7",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "267505f4e7a8b2fddfd8c38c120bb5515c71578147549e237bf538af7694000a",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/QuickLink-v0.9.7/QuickLink_v0.9.7.zip",
+                                              "UpdatedAt":  "2026-04-25",
+                                              "CloudName":  "皮皮快连: QuickLink",
+                                              "InstalledChannel":  "stable"
+                                          },
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/RemoveMultiplayerPlayerLimit-v0.0.5/RemoveMultiplayerPlayerLimit_v0.0.5.zip",
+                                              "Name":  "RemoveMultiplayerPlayerLimit",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "新增 v0.99 格式 manifest（外部 JSON + id + affects_gameplay）",
+                                                                      "多人联机 API 无破坏性变更，Harmony patches 全部兼容"
+                                                                  ],
+                                              "LocalName":  "Remove Multiplayer Player Limit",
+                                              "RemoteVer":  "0.0.5",
+                                              "Filename":  "RemoveMultiplayerPlayerLimit_v0.0.5.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\RemoveMultiplayerPlayerLimit",
+                                              "Changelog":  "适配 v0.99 beta 新 mod 结构",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "0.0.5",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "74f1d5c4a662521ed2a47f8400e93179bc83252ce55a4af8d2a2cc353249c292",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/RemoveMultiplayerPlayerLimit-v0.0.5/RemoveMultiplayerPlayerLimit_v0.0.5.zip",
+                                              "UpdatedAt":  "2026-03-14",
+                                              "CloudName":  "Remove Multiplayer Player Limit",
+                                              "InstalledChannel":  "stable"
+                                          },
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/Rewind-v0.26.10/Rewind_v0.26.10.zip",
+                                              "Name":  "Rewind",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "将倒带的继续游戏/读档追踪改为运行时解析 RunManager.SetUpSavedSinglePlayer，同时覆盖 v0.103.2 的 void 签名与 v0.105.0 的 Task 返回签名，保持单 DLL 双版本可用。",
+                                                                      "重新审计 Rewind 直接触达的 STS2 方法引用；在已有选牌器与 PowerCmd 兼容桥之后，没有发现剩余的直接调用签名不匹配。",
+                                                                      "稳定服 v0.103.2 与测试服 v0.105.0 下，reload 统计和外部读档检测 patch 都会继续生效。"
+                                                                  ],
+                                              "LocalName":  "皮皮倒带: Rewind",
+                                              "RemoteVer":  "0.26.10",
+                                              "Filename":  "Rewind_v0.26.10.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\Rewind",
+                                              "Changelog":  "增强 v0.105 读档继续追踪兼容性",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "0.26.10",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "3eb1d21560ae17971cbe02a23843c2ff99fe9fe62f40dc749907d460288eaf4f",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/Rewind-v0.26.10/Rewind_v0.26.10.zip",
+                                              "UpdatedAt":  "2026-05-09",
+                                              "CloudName":  "皮皮倒带: Rewind",
+                                              "InstalledChannel":  "stable"
+                                          },
+                                          {
+                                              "TargetChannel":  "stable",
+                                              "DownloadCn":  "https://gitee.com/forNoName/sts2-pp-mod-release/releases/download/SpeedX-v0.11.7/SpeedX_v0.11.7.zip",
+                                              "Name":  "SpeedX",
+                                              "HasLocal":  true,
+                                              "ChangelogDetail":  [
+                                                                      "修复 v0.105.0 删除 NRewardsScreen.SetRewards、把奖励按钮生成移动到 _Ready 后，SpeedX 在 Harmony PatchAll 阶段失败的问题。",
+                                                                      "自动拾取会在 v0.103.2 上继续挂 SetRewards，在 v0.105.0 上自动改挂 _Ready，从而恢复整体倍速/跳动画等补丁初始化。",
+                                                                      "继续保持 v0.103.2/v0.105.0 单 DLL 兼容构建，并通过 IL 静态兼容检查。"
+                                                                  ],
+                                              "LocalName":  "皮皮极速: SpeedX",
+                                              "RemoteVer":  "0.11.7",
+                                              "Filename":  "SpeedX_v0.11.7.zip",
+                                              "StatusTag":  "正式",
+                                              "Token":  "",
+                                              "InstallDir":  "D:\\SteamLibrary\\steamapps\\common\\Slay the Spire 2\\mods\\SpeedX",
+                                              "Changelog":  "修复 v0.105.0 奖励界面改动导致 SpeedX 失效",
+                                              "Notice":  "正式版已是最新。",
+                                              "LocalVer":  "0.11.7",
+                                              "ActionKind":  "current",
+                                              "Sha256":  "1166fada03cdf49a13d98eb52529bcee2b3a8582884f1b2242fab39cb95775ce",
+                                              "DownloadIntl":  "https://github.com/xhyrzldf/sts2-pp-mod-release/releases/download/SpeedX-v0.11.7/SpeedX_v0.11.7.zip",
+                                              "UpdatedAt":  "2026-05-08",
+                                              "CloudName":  "皮皮极速: SpeedX",
+                                              "InstalledChannel":  "stable"
+                                          }
+                                      ],
+                         "CheckTime":  "05-10 13:03",
+                         "Attention":  [
+
+                                       ]
+                     }
+}

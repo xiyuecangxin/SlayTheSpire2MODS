@@ -1,0 +1,13 @@
+﻿{
+    "id":  "4.28",
+    "name":  "4.28",
+    "author":  "mod",
+    "description":  "战士卡图娘化mod，包含38张卡图",
+    "version":  "V1.0",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+
+                     ],
+    "affects_gameplay":  false
+}

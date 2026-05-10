@@ -1,0 +1,11 @@
+{
+  "id": "ancientillustrationreplacer",
+  "name": "Ancient Illustration Replacer",
+  "author": "kimsg",
+  "description": "Replaces ancient event illustrations with user-provided images.",
+  "version": "1.0.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

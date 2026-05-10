@@ -1,0 +1,13 @@
+﻿{
+    "id":  "cutenecrobinder0.4",
+    "name":  "cutenecrobinder0.4",
+    "author":  "a2329",
+    "description":  "骨妹可爱捏\n奥斯提可爱捏\n\n联系我B站@Zemheriet",
+    "version":  "v1.0.0",
+    "has_pck":  true,
+    "has_dll":  true,
+    "dependencies":  [
+
+                     ],
+    "affects_gameplay":  false
+}
